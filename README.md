@@ -1,4 +1,4 @@
-echo "# Nepali Calendar Conversion Project
+# Nepali Calendar Conversion Project
 
 This repository provides functionality for converting dates between the Nepali Calendar (Bikram Sambat, BS) and the Gregorian Calendar (Anno Domini, AD). Additionally, the project includes features for calculating Tithi (lunar phases) and related Nepali date systems.
 
