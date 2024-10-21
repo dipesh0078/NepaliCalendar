@@ -11,7 +11,7 @@ This repository provides functionality for converting dates between the Nepali C
 
 ## Project Structure
 
-\`\`\`bash
+\`\`\`
 |-- NepaliCalendar.py  # Main logic for date conversion between AD and BS
 |-- info.py            # Handles loading the CSV data and providing necessary information
 |-- test.py            # Contains unit tests to verify the correctness of date conversions
